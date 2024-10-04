@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm Hanan! 👋
+
+As a Dynamic Software Engineer specializing in Front-end Engineering, I am passionate about creating exceptional web experiences that engage users and drive business success. With a strong track record in delivering innovative products, I design and build responsive, high-performance applications that blend aesthetics and functionality. Leveraging cutting-edge technologies, I craft intuitive, user-centric interfaces that enhance engagement and satisfaction. My creative problem-solving skills and adaptability to evolving technologies have consistently delivered high-quality results.
 
 <!--
 **hananpk/hananpk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
